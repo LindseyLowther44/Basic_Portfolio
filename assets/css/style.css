@@ -9,6 +9,10 @@ body{
     background-attachment: fixed;
     background-size: cover;;
 }
+#wrap {
+    width:960px;
+    margin: auto;
+}
 .container{
     width:960px;
     margin: auto;
